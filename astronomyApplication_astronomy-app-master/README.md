@@ -1,4 +1,4 @@
-# Astronomy App
+# Astronomy Application
 ## University of Michigan Dearborn Senior Design Fall 2017 - Winter 2018
 
 Contributors:
